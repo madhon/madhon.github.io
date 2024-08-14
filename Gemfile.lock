@@ -81,11 +81,12 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-timeago (~> 0.13.1)
   minima
+  rexml (>= 3.3.3)
   wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 RUBY VERSION
-   ruby 3.2.3p157
+   ruby 3.2.4p170
 
 BUNDLED WITH
    2.5.6
